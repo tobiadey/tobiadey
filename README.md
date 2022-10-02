@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobiadey&label=Profile%20views&color=0e75b6&style=flat" alt="tobiadey" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adey_of" target="blank"><img src="https://img.shields.io/twitter/follow/adey_of?logo=twitter&style=for-the-badge" alt="adey_of" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/adey_of" target="blank"><img src="https://img.shields.io/twitter/follow/adey_of?logo=twitter&style=for-the-badge" alt="adey_of" /></a> </p> -->
 
 - 🔭 I’m currently working on [an AI aggregator for Text to Art models](:🤫)
 
