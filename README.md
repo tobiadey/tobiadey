@@ -5,7 +5,7 @@
 
 <!-- - 🔭 I’m currently working on [an AI aggregator for Text to Art models](:🤫) -->
 
-In my free time I [write](https://t.co/rwbmz9FkSW) about SWE, and build side projects. Have a look 👀:
+In my free time I [write](https://t.co/rwbmz9FkSW) and build side projects. Have a look 👀:
 - [NoName - Twitter bot using stabble diffusion(text to art model)](https://github.com/tobiadey/text-to-art)
 - [Computer Science Cheetsheet](https://educated-fireplace-b16.notion.site/Fundamentals-of-Computer-Science-52b7a2206f634c1cad4e5a995c0f9b69)
 - [Unbolt- Supply Chain on the Blockchain](https://github.com/tobiadey/UnBolt)
