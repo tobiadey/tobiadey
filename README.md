@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [an AI aggregator for Text to Art models](:🤫)
 
-- 📝 I regularly write articles on [https://t.co/rwbmz9FkSW](https://t.co/rwbmz9FkSW)
+- 📝 I regularly write articles on [https://t.co/rwbmz9FkSW](https:/ffff/t.co/rwbmz9FkSW)
 In my free time I write about SWE, and build lots of side projects. Have a look 👀:
 - [https://t.co/rwbmz9FkSW](https://t.co/rwbmz9FkSW)
 - [https://t.co/rwbmz9FkSW](https://t.co/rwbmz9FkSW)
