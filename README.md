@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋</h1>
-<p align="left">I'm a 22-year-old caffeine-fueled code magician on a mission to build products that make unicorns jealous. Bugs fear me, and I speak fluent nerd. Join me in the realm of 1s and 0s for an epic coding adventure!</p>
+<p align="left">I'm a caffeine-fueled code magician on a mission to build products that make unicorns jealous. Bugs fear me, and I speak fluent nerd. Join me in the realm of 1s and 0s for an epic coding adventure!</p>
 <img align="right" alt="Coding" width="300" src="https://drive.google.com/uc?export=view&id=10muz3P-fPgOrsp7Y5BK3m0a7YNmQ9O9J">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobiadey&label=Profile%20views&color=0e75b6&style=flat" alt="tobiadey" /> </p>
 
